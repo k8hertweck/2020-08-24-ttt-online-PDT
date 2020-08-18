@@ -292,7 +292,7 @@ for more information.
 {% if page.etherpad %}
 <hr/>
 
-<h2 id="etherpad"></h2>
+<h2 id="etherpad">Etherpad</h2>
 <p>
   We will use this Etherpad for chatting, taking notes, and sharing URLs and bits of code.
    <br/>
